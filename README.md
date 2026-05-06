@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thiago Kiyota Vasques!
+# 👋 Hi, I'm Thiago Kiyota!
 
 ## 🚀 About Me
 I'm a **Senior DevOps & Site Reliability Engineer (SRE)** with extensive experience in **cloud infrastructure, automation, and system reliability**. Passionate about **optimizing cloud environments, implementing security best practices, and automating infrastructure**, I specialize in:
