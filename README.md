@@ -11,14 +11,15 @@ I'm a **Senior DevOps & Site Reliability Engineer (SRE)** with extensive experie
 - 🔐 **Security & Compliance:** DevSecOps | IAM | FinOps  
 
 ## 📈 My Experience
-With **16+ years** in IT, I have worked on **multi-cloud architectures**, built **scalable and cost-efficient solutions**, and led DevOps transformations for high-impact projects. Some key highlights:
+With **20+ years** in IT, I have worked on **multi-cloud architectures**, built **scalable and cost-efficient solutions**, and led DevOps transformations for high-impact projects. Some key highlights:
 
+- 📌 **Infleet:** Working as **Senior DevOps Engineer** at a fleet management platform, building and evolving cloud infrastructure, reliability, and automation practices at scale.
 - 📌 **Kiwify:** Improved **CI/CD pipelines, multi-cloud automation**, and **observability strategies** using OpenTelemetry and Datadog.
 - 📌 **Elo7:** Led the development of **AWS EKS infrastructure**, optimized Terraform modules, and ensured platform stability.
-- 📌 **Eletromidia:** Managed **hybrid cloud** environments and reduced operational costs by **35%** through automation.
+- 📌 **Eletromidia:** Managed **hybrid cloud and on-premises infrastructure**, led IT operations, and drove automation initiatives to improve deployment reliability and reduce operational overhead.
 
 ## 📫 Let's Connect!
-🔗 **LinkedIn:** [linkedin.com/in/thiagokiyotavasques](https://www.linkedin.com/in/thiagokiyotavasques)  
+🔗 **LinkedIn:** [linkedin.com/in/thiagokiyota](https://www.linkedin.com/in/thiagokiyota)  
 📩 **Email:** [thiago.kiyota@gmail.com](mailto:thiago.kiyota@gmail.com)  
 
 💡 Always exploring new technologies and open to collaborations! 🚀
